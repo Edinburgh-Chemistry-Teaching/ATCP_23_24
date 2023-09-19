@@ -3,7 +3,8 @@
 This repository contains three lectures and three workshop sessions on introducing machine learning concepts in the advanced physical chemistry module at UoE. 
 
 ## Author
-Dr Antonia Mey -- antonia.mey@ed.ac.uk
+Dr Antonia Mey -- antonia.mey@ed.ac.uk.  
+Jasmin Güven
 
 ## Workshop Notebooks
 
