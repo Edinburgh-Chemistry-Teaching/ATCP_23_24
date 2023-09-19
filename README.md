@@ -1,6 +1,6 @@
-# Introduction to Machine Learning in Chemistry
+# Advanced Topics in Chemical Physics: Introduction to Machine Learning 
 
-This repository contains two lectures and a 3 session workshop on introducing machine learning concepts in the advanced physical chemistry module at UoE. 
+This repository contains three lectures and three workshop sessions on introducing machine learning concepts in the advanced physical chemistry module at UoE. 
 
 ## Author
 Dr Antonia Mey -- antonia.mey@ed.ac.uk
@@ -9,11 +9,13 @@ Dr Antonia Mey -- antonia.mey@ed.ac.uk
 
 | Units                | Materials |
 |-----------|-------------------------|
-|Unit_01: Dimensionality Reduction|[![MDA Part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_01/1_DR_part1.ipynb)|
-|Unit_02: Clustering|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_02/01_clustering.ipynb) |
-|Unit_02: Classification|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_02/02_classification.ipynb) |
-|Unit_03: Neural Networks and PyTorch|[![Part3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_03/01_Intro_to_pytorch.ipynb)|
-|Unit_03:  Deep Learning for Solubility Classification|[![Part3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_03/02_Solubility_classification.ipynb)|
+|**Unit_01: Clustering and Dimensionality Reduction Reduction**||
+|First noteboook: Clustering|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ATCP_23_24/blob/main/Unit_01/01_clustering.ipynb) |
+| Second notebook: Dimensionality reduction|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ATCP_23_24/blob/main/Unit_01/02_dimensionality_reduction.ipynb) |
+| Third notebook: Application|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ATCP_23_24/blob/main/Unit_01/03_application.ipynb) |
+|**Unit_02: Regression and Classification**| |
+|||
+|**Unit_03:  Deep Learning for Solubility Classification**||
 
 ## Local installation
 
@@ -36,8 +38,8 @@ Dr Antonia Mey -- antonia.mey@ed.ac.uk
 
 ## Project
 
-Release: 13/02/2023  
-Report Deadline: 10/03/2023  
+Release: week 4
+Report Deadline: TBC  
 Weight: 20%
 
 ## Summary of Lectures
@@ -48,24 +50,25 @@ Weight: 20%
    - Clustering (k-means and others)
    - How does actual input data look like?
 - Molecular fingerprints and nomenclature
-Introduction to supervised learning:
-- What is a classification problem?
-
-### Lecture 2:
 - Unsupervised learning continued:
    - Dimensionality reduction (PCA)
+   - Dimensionality reduction (tICA)
    - t-SNE
+
+### Lecture 2:
+- Optimization
 - Regressions
+- Classification
 - Classifications in practice:
    - Random Forests
-   - Multilayer perceptrons 
+   - Support vector machine
 
-### Accompanying Notebooks:
+### Lecture 3:
 
-| Session                 | Materials |
-|-----------|-------------------------|
-|Dimensionality Reduction|[![MDA Part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_01/1_DR_part1.ipynb)|
-|Clustering and Regressions|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_02/02_clustering.ipynb) |
+- Shallow Learning 
+- Deep Learning
+   - Multilayer perceptron 
+   - GCN, Transformers 
 
 ## Learning Outcomes
 - Understand the main pillars of machine learning
