@@ -35,7 +35,7 @@ Jasmin Güven
    
 5. Install all the required packages with mamba:
 
-   `mamba install -c conda-forge mdanalysis mdanalysistests mdanalysisdata nglview scikit-learn ipywidgets=7.6.0`
+   `mamba install -c conda-forge scikit-learn matplotlib pandas`
 
 ## Project
 
