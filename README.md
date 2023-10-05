@@ -15,8 +15,10 @@ Jasmin Güven
 | Second notebook: Dimensionality reduction|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ATCP_23_24/blob/main/Unit_01/02_dimensionality_reduction.ipynb) |
 | Third notebook: Application|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ATCP_23_24/blob/main/Unit_01/03_application.ipynb) |
 |**Unit_02: Regression and Classification**| |
-|||
+||Cancelled due to strike|
 |**Unit_03:  Deep Learning for Solubility Classification**||
+|First noteboook: Intro to Pytorch|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ATCP_23_24/blob/main/Unit_03/01_Intro_to_pytorch.ipynb) |
+| Second notebook: Solubility classification|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ATCP_23_24/blob/main/Unit_03/02_Solubility_classification.ipynb |
 
 ## Local installation
 
@@ -36,6 +38,14 @@ Jasmin Güven
 5. Install all the required packages with mamba:
 
    `mamba install -c conda-forge scikit-learn matplotlib pandas`
+
+For Unit_03 you will also need to install
+
+`mamba install -c conda-forge rdkit seaborn`
+
+and
+
+` mamba install pytorch torchvision torchinfo -c pytorch`
 
 ## Project
 
