@@ -17,7 +17,7 @@ Jasmin Güven
 |**Unit_02: Regression and Classification**| cancelled due to strike |
 |**Unit_03:  Deep Learning for Solubility Classification**||
 |First noteboook: Intro to Pytorch|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ATCP_23_24/blob/main/Unit_03/01_Intro_to_pytorch.ipynb) |
-| Second notebook: Solubility classification|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ATCP_23_24/blob/main/Unit_03/02_Solubility_classification.ipynbi) |
+| Second notebook: Solubility classification|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ATCP_23_24/blob/main/Unit_03/02_Solubility_classification.ipynb) |
 
 ## Local installation
 
